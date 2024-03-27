@@ -1,1 +1,1 @@
-# shopping-list
+This repo is just exercise for DOM manipulation
